@@ -71,7 +71,7 @@ export default function LoginScreen() {
                                 />
                             </View>
                             <SubmitButton
-                                title="login"
+                                title="Login"
                                 fontFamily="Inter_900Black"
                             />
                         </AppForm>
